@@ -1,2 +1,17 @@
 git config --global user.name "Shubham Pokale"
 git config --global user.email "shubham.pokale2001@gmail.com
+
+git init 
+
+git add . 
+
+git status 
+
+git commit -m "I am batman"
+
+git remote add origin "https://github.com/ShubhamPokale/WPT.git" 
+
+git branch -M main 
+
+git push -u origin main 
+
