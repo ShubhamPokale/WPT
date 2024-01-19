@@ -7,7 +7,7 @@ git add .
 
 git status 
 
-git commit -m "I am batman"
+git commit -m "Commiting to the local repo"
 
 git remote add origin "https://github.com/ShubhamPokale/WPT.git" 
 
@@ -17,3 +17,5 @@ git push -u origin main
 
 git push -f -u origin <name of branch>
 
+
+System.out.println("This is my user");
